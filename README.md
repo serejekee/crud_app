@@ -1,4 +1,7 @@
 # ToDo Python Project with PostgreSQL
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blue?style=for-the-badge&logo=postgresql)
 
 Это простой проект на Python, который реализует базовые операции с базой данных PostgreSQL для управления задачами (ToDo). В проекте используются основные CRUD-операции: создание, чтение, обновление и удаление задач.
 
